@@ -55,7 +55,8 @@ LYK-2026-YAZ/
     │   └── books/              # e-kitaplar, makaleler
     ├── cryptography/            # aynı alt klasörler
     ├── blockchain/              # aynı alt klasörler
-    └── astronomy/               # aynı alt klasörler
+    ├── astronomy/               # aynı alt klasörler
+    └── ai/                      # aynı alt klasörler
 ```
 
 Her konu klasörü **aynı altı alt klasörü** içerir — bir konuda nasıl
@@ -78,6 +79,7 @@ gömülmesindense burada durması iyidir; sonradan yeri belli olursa taşırız.
 | Kriptografi | [`topics/cryptography/`](topics/cryptography/) |
 | Blockchain | [`topics/blockchain/`](topics/blockchain/) |
 | Astronomi | [`topics/astronomy/`](topics/astronomy/) |
+| Yapay Zeka | [`topics/ai/`](topics/ai/) |
 
 ### Nasıl yüklerim?
 
@@ -153,7 +155,8 @@ LYK-2026-YAZ/
     │   └── books/              # e-books, papers
     ├── cryptography/            # same subfolders
     ├── blockchain/              # same subfolders
-    └── astronomy/               # same subfolders
+    ├── astronomy/               # same subfolders
+    └── ai/                      # same subfolders
 ```
 
 Every topic folder has **the same six subfolders** — learn one topic and you
@@ -176,6 +179,7 @@ the wrong topic; we can move it once its place is clear.
 | Cryptography | [`topics/cryptography/`](topics/cryptography/) |
 | Blockchain | [`topics/blockchain/`](topics/blockchain/) |
 | Astronomy | [`topics/astronomy/`](topics/astronomy/) |
+| Artificial Intelligence | [`topics/ai/`](topics/ai/) |
 
 ### How do I upload?
 
